@@ -1,0 +1,751 @@
+Season_Name,Date,StartTime,PlotNum,Riding.not,Species,COMMON_NAME,ObsType,Num_Seen,Distance,X0_3,X3_5,X5_7,X7_10
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,AMGO,American Goldfinch,V/C,2,14,2,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,MODO,Mourning Dove,Visual,2,111,2,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,SWTH,Swainson's Thrush,Call,1,55,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,MODO,Mourning Dove,Visual,1,26,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,MODO,Mourning Dove,Visual,1,26,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,AMGO,American Goldfinch,Visual,1,66,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,AMGO,American Goldfinch,Visual,1,60,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,AMGO,American Goldfinch,Visual,1,97,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,BEWR,Bewick's Wren,Song,1,61,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,CATH,California Thrasher,Song,1,86,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,WCSP,White-crowned Sparrow,Song,1,16,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,SPTO,Spotted Towhee,Call,1,42,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,WCSP,White-crowned Sparrow,Call,1,75,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,CATH,California Thrasher,Song,1,70,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,7:13,2,R,AMGO,American Goldfinch,Call,1,30,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:13,2,R,CATH,California Thrasher,Song,1,150,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:13,2,R,MODO,Mourning Dove,Visual,1,150,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:13,2,R,WCSP,White-crowned Sparrow,Visual,1,44,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:13,2,R,WCSP,White-crowned Sparrow,Visual,1,26,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:13,2,R,WCSP,White-crowned Sparrow,Visual,1,56,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:13,2,R,ALHU,Allen's Hummingbird,Visual,1,24,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,7:15,3,R,HOFI,House Finch,Visual,1,3,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:15,3,R,OSFL,Olive sided flycatcher,Visual,1,44,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:15,3,R,BEWR,Bewick's Wren,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:15,3,R,TOWA,Townsend's Warbler,Visual,1,48,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:15,3,R,OCWA,Orange-crowned Warbler,Visual,1,8,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:15,3,R,AMGO,American Goldfinch,Visual,2,44,NA,2,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:15,3,R,BTYW,Black-throated Gray Warbler,Visual,1,44,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:33,4,R,SPTO,Spotted Towhee,Song,1,20,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:33,4,R,BEWR,Bewick's Wren,Song,1,30,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:33,4,R,WESJ,California Scrub-Jay,Visual,1,30,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:33,4,R,WESJ,California Scrub-Jay,Call,1,60,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:33,4,R,BEWR,Bewick's Wren,Song,1,30,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:33,4,R,CATH,California Thrasher,Song,1,60,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:33,4,R,MODO,Mourning Dove,Call,1,60,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:35,5,R,WREN,Wrentit,Song,1,10,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:35,5,R,WCSP,White-crowned Sparrow,Visual,1,12,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:35,5,R,WCSP,White-crowned Sparrow,Visual,1,12,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:35,5,R,BUOR,Bullock's Oriole,Visual,1,26,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:35,5,R,BEWR,Bewick's Wren,Song,1,20,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:35,5,R,SAPH,Say's Phoebe,Call,1,45,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,7:35,5,R,BUSH,Bushtit,Visual,1,34,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,BEWR,Bewick's Wren,Visual,1,30,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,RTHA,Red-tailed Hawk,Visual,1,230,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,BEWR,Bewick's Wren,Song,1,174,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,BEWR,Bewick's Wren,Song,1,33,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,CATH,California Thrasher,Visual,2,35,NA,2,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,BEWR,Bewick's Wren,Song,1,153,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,WCSP,White-crowned Sparrow,Visual,2,26,NA,NA,2,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,WCSP,White-crowned Sparrow,Visual,1,61,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,not official,Unknown Bird,Song,1,33,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,7:52,6,R,not official,Unknown Bird,Song,1,33,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:49,7,R,BEWR,Bewick's Wren,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:49,7,R,BEWR,Bewick's Wren,Song,1,13,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:49,7,R,WCSP,White-crowned Sparrow,Visual,1,41,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:49,7,R,SPTO,Spotted Towhee,Visual,1,49,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:49,7,R,MODO,Mourning Dove,Visual,1,18,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,9:49,7,R,CATH,California Thrasher,Call,1,76,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,9:49,7,R,AMCR,American Crow,Call,1,>200,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,9:49,7,R,BUSH,Bushtit,Visual,1,40,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,BEWR,Bewick's Wren,Song,1,39,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,WREN,Wrentit,Song,1,79,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,BEWR,Bewick's Wren,Song,1,25,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,CATH,California Thrasher,Song,1,140,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,BEWR,Bewick's Wren,Song,1,154,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,WESJ,California Scrub-Jay,Visual,1,93,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,MODO,Mourning Dove,Visual,1,147,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,SPTO,Spotted Towhee,Song,1,53,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,WREN,Wrentit,Song,1,45,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,9:29,8,R,BUOR,Bullock's Oriole,Visual,1,98,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,WREN,Wrentit,Visual,1,149,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,WEKI,Western Kingbird,Call,1,62,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,CAQU,California Quail,Call,1,80,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,RTHA,Red-tailed Hawk,Visual,1,65,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,WCSP,White-crowned Sparrow,Song,1,135,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,ANHU,Anna's Hummingbird,Visual,1,65,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,BUOR,Bullock's Oriole,Call,1,109,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,Northern Flicker NOFL,Red-Shafted Flicker (Previously Northern Flicker NOFL),Call,1,125,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,BEWR,Bewick's Wren,Song,1,128,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,RTHA,Red-tailed Hawk,Call,1,>200,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,9:10,9,N,WREN,Wrentit,Song,1,150,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,WETA,Western Tanager,Visual,1,60,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,NUWO,Nuttall's Woodpecker,Call,1,46,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,MODO,Mourning Dove,Call,1,120,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,BEWR,Bewick's Wren,Visual,1,9,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,CATH,California Thrasher,Song,1,175,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,SPTO,Spotted Towhee,Call,1,50,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,WREN,Wrentit,Song,1,150,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,ANHU,Anna's Hummingbird,Visual,1,28,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,CAQU,California Quail,Call,1,148,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,WCSP,White-crowned Sparrow,Call,1,120,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,8:06,10,N,AMGO,American Goldfinch,Visual,1,40,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,WCSP,White-crowned Sparrow,Visual,1,19,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,MODO,Mourning Dove,Visual,1,260,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,GHOW,Great Horned Owl,Visual,1,40,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,NUWO,Nuttall's Woodpecker,Call,1,90,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,SOSP,Song Sparrow,Call,1,16,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,AMGO,American Goldfinch,Call,1,20,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,AMGO,American Goldfinch,Call,1,14,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,ALHU,Allen's Hummingbird,Visual,1,37,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,RWBL,Red-winged Blackbird,Call,1,120,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,LEGO,Lesser Goldfinch,Visual,1,37,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,8:27,11,N,WCSP,White-crowned Sparrow,Visual,1,70,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,MODO,Mourning Dove,Visual,2,37,2,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,SPTO,Spotted Towhee,Call,1,72,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,BEWR,Bewick's Wren,Song,1,68,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,WREN,Wrentit,Song,1,45,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,WCSP,White-crowned Sparrow,Song,1,28,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,WREN,Wrentit,Song,1,49,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,MODO,Mourning Dove,Visual,3,40,3,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,TWICE LISTED AUWA or MYWA,Yellow-Rumped Warbler (unk race),Visual,1,57,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,WCSP,White-crowned Sparrow,Song,1,74,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,USHU,Unknown Selasphorus Hummingbird,Visual,1,35,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,WEKI,Western Kingbird,Visual,3,106,NA,3,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,BEWR,Bewick's Wren,Visual,1,31,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,WESJ,California Scrub-Jay,Visual,1,62,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,WREN,Wrentit,Song,1,50,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,SPTO,Spotted Towhee,Song,1,49,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,WESJ,California Scrub-Jay,Visual,1,62,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:13,12,R,CATH,California Thrasher,Song,1,39,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,YTWA,Yellow-throated Warbler,Visual,1,60,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,BUOR,Bullock's Oriole,Visual,2,42,2,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,BLPH,Black Phoebe,Visual,1,46,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,BEWR,Bewick's Wren,Song,1,41,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,SPTO,Spotted Towhee,Visual,1,31,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,SORA,Sora,Call,1,>100,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,MAWR,Marsh Wren,Call,1,>100,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,RWBL,Red-winged Blackbird,Call,1,>100,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,SPTO,Spotted Towhee,Song,1,33,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,BUOR,Bullock's Oriole,Visual,3,31,NA,NA,3,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,SCOR,Scott's oriole,Visual,1,32,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,ANHU,Anna's Hummingbird,Visual,1,31,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,WREN,Wrentit,Song,1,20,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,8:37,13,N,RWBL,Red-winged Blackbird,Visual,1,42,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,CATH,California Thrasher,Song,1,75,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,WIWA,Wilson's Warbler,Call,1,30,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,BEWR,Bewick's Wren,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,MODO,Mourning Dove,Call,1,50,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,OCWA,Orange-crowned Warbler,Call,1,40,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,BEWR,Bewick's Wren,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,WREN,Wrentit,Call,1,70,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,NUWO,Nuttall's Woodpecker,Call,1,40,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,WESJ,California Scrub-Jay,Call,1,50,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,TWICE LISTED AUWA or MYWA,Yellow-Rumped Warbler (unk race),Call,1,10,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,LEGO,Lesser Goldfinch,Visual,2,18,NA,NA,NA,2
+2013 Spring Survey 1 of 4,4/26/2013,9:14,17,N,OCWA,Orange-crowned Warbler,Visual,1,16,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,BEWR,Bewick's Wren,Song,1,35,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,BARS,Barn Swallow,Visual,1,95,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,WREN,Wrentit,Song,1,58,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,SOSP,Song Sparrow,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,WREN,Wrentit,Song,1,34,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,WESJ,California Scrub-Jay,Visual,1,133,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,SPTO,Spotted Towhee,Call,1,45,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,WCSP,White-crowned Sparrow,Visual,1,37,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,NOHA,Northern Harrier,Visual,1,115,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,CATH,California Thrasher,Song,1,93,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,WCSP,White-crowned Sparrow,Visual,1,73,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,9:30,18,N,WCSP,White-crowned Sparrow,Visual,1,30,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,CATH,California Thrasher,Song,1,72,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,WREN,Wrentit,Call,1,112,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,WESJ,California Scrub-Jay,Call,1,72,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,WREN,Wrentit,Call,1,98,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,CATH,California Thrasher,Song,1,97,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,WCSP,White-crowned Sparrow,Call,1,98,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,WREN,Wrentit,Song,1,103,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,WESJ,California Scrub-Jay,Call,2,72,NA,2,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,MODO,Mourning Dove,Visual,2,112,NA,2,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,SPTO,Spotted Towhee,Call,1,60,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,CATH,California Thrasher,Song,1,212,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:32,19,N,SPTO,Spotted Towhee,Call,1,54,NA,NA,NA,1
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,SPTO,Spotted Towhee,Song,1,51,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,SPTO,Spotted Towhee,Song,1,68,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,SPTO,Spotted Towhee,Song,1,41,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,WCSP,White-crowned Sparrow,Song,1,79,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,BEWR,Bewick's Wren,Song,1,80,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,RTHA,Red-tailed Hawk,Visual,1,107,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,WREN,Wrentit,Song,2,49,2,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,WCSP,White-crowned Sparrow,Song,1,26,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,WESJ,California Scrub-Jay,Call,1,79,NA,NA,1,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,not official,Unknown Bird,Song,1,72,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/25/2013,6:47,20,N,AMGO,American Goldfinch,Visual,2,62,NA,NA,NA,2
+2013 Spring Survey 1 of 4,4/26/2013,7:35,5,R,WREN,Wrentit,Visual,1,88,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,AMGO,American Goldfinch,Visual,2,14,2,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,MODO,Mourning Dove,Visual,2,111,2,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,SWTH,Swainson's Thrush,Call,1,55,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,MODO,Mourning Dove,Visual,1,26,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,AMGO,American Goldfinch,Visual,1,66,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,AMGO,American Goldfinch,Visual,1,60,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,AMGO,American Goldfinch,Visual,1,97,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,BEWR,Bewick's Wren,Song,1,61,1,NA,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,CATH,California Thrasher,Song,1,86,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,WCSP,White-crowned Sparrow,Song,1,16,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,SPTO,Spotted Towhee,Call,1,42,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,WCSP,White-crowned Sparrow,Call,1,75,NA,1,NA,NA
+2013 Spring Survey 1 of 4,4/26/2013,6:58,1,R,CATH,California Thrasher,Song,1,70,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,MODO,Mourning Dove,Visual,2,10,2,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,BEWR,Bewick's Wren,Song,1,70,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,WIWA,Wilson's Warbler,Song,1,38,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,AMGO,American Goldfinch,Song,1,73,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,WCSP,White-crowned Sparrow,Song,1,31,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,BEWR,Bewick's Wren,Song,1,28,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,WCSP,White-crowned Sparrow,Song,1,110,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,BUSH,Bushtit,Visual,1,46,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,MODO,Mourning Dove,V/S,1,61,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,SPTO,Spotted Towhee,Song,1,48,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,OCWA,Orange-crowned Warbler,Song,1,58,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,BUSH,Bushtit,Visual,2,58,NA,NA,NA,2
+2013 Spring Survey 2 of 4,5/9/2013,8:31,1,R,WIWA,Wilson's Warbler,Visual,1,9,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,9:37,2,R,RWBL,Red-winged Blackbird,V/C,1,28,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:37,2,R,WCSP,White-crowned Sparrow,V/S,1,56,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:37,2,R,CATH,California Thrasher,Song,1,161,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:37,2,R,CLSW,Cliff Swallow,Visual,1,20,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,8:08,3,R,BEWR,Bewick's Wren,Song,1,55,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:08,3,R,WIWA,Wilson's Warbler,Song,1,20,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:08,3,R,CATH,California Thrasher,Song,1,175,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:08,3,R,WESJ,California Scrub-Jay,Call,1,175,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:08,3,R,WETA,Western Tanager,Visual,1,52,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,8:08,3,R,CATH,California Thrasher,Song,1,61,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,BEWR,Bewick's Wren,Song,1,15,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,OCWA,Orange-crowned Warbler,Song,1,30,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,BEWR,Bewick's Wren,Song,1,50,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,TRES,Tree Swallow,Visual,1,40,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,CATH,California Thrasher,Call,1,25,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,WIWA,Wilson's Warbler,Song,1,35,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,MODO,Mourning Dove,Visual,1,10,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,BEWR,Bewick's Wren,Song,1,45,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,LEGO,Lesser Goldfinch,Call,1,33,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,9:18,4,R,BHCO,Brown-headed Cowbird,Call,1,50,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,WCSP,White-crowned Sparrow,Song,1,22,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,WREN,Wrentit,Song,1,21,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,WREN,Wrentit,Song,1,21,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,WREN,Wrentit,Song,1,67,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,SPTO,Spotted Towhee,Song,1,47,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,BEWR,Bewick's Wren,Song,1,75,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,CATH,California Thrasher,Song,1,27,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,BEWR,Bewick's Wren,Song,1,66,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,WCSP,White-crowned Sparrow,Song,1,80,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,BUSH,Bushtit,Visual,1,21,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,BUSH,Bushtit,Visual,1,15,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:49,5,R,BARS,Barn Swallow,V/C,1,40,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,WCSP,White-crowned Sparrow,Song,1,54,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,WCSP,White-crowned Sparrow,Song,1,62,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,BEWR,Bewick's Wren,Song,1,24,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,WCSP,White-crowned Sparrow,Visual,1,35,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,BEWR,Bewick's Wren,Song,1,42,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,CATH,California Thrasher,Song,1,93,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,WCSP,White-crowned Sparrow,Song,1,116,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,BARS,Barn Swallow,Call,2,,NA,NA,2,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,CATH,California Thrasher,Visual,1,212,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,HOFI,House Finch,Song,1,102,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,8:59,6,R,WESJ,California Scrub-Jay,Visual,1,48,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,7:30,7,R,WCSP,White-crowned Sparrow,Song,1,48,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:30,7,R,BEWR,Bewick's Wren,Song,1,24,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:30,7,R,BEWR,Bewick's Wren,Song,1,22,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:30,7,R,CATH,California Thrasher,V/S,1,67,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:30,7,R,WCSP,White-crowned Sparrow,Visual,1,17,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:30,7,R,CLSW,Cliff Swallow,Visual,1,100,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:30,7,R,CLSW,Cliff Swallow,Visual,1,50,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:30,7,R,SPTO,Spotted Towhee,Song,1,50,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,7:07,8,R,BEWR,Bewick's Wren,Song,1,66,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:07,8,R,BEWR,Bewick's Wren,Song,1,89,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:07,8,R,WREN,Wrentit,Song,1,39,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:07,8,R,SPTO,Spotted Towhee,Song,1,70,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:07,8,R,CATH,California Thrasher,Song,1,98,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:07,8,R,WREN,Wrentit,Song,1,79,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,7:07,8,R,MODO,Mourning Dove,Visual,2,38,NA,NA,NA,2
+2013 Spring Survey 2 of 4,5/9/2013,7:07,8,R,BEWR,Bewick's Wren,Call,1,102,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,7:07,8,R,WCSP,White-crowned Sparrow,Song,1,75,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,CATH,California Thrasher,Visual,2,30,2,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,WCSP,White-crowned Sparrow,V/S,1,52,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,WCSP,White-crowned Sparrow,Song,1,111,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,BEWR,Bewick's Wren,Song,1,111,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,RTHA,Red-tailed Hawk,Call,1,65,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,NUWO,Nuttall's Woodpecker,Call,1,96,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,SPTO,Spotted Towhee,Call,1,97,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,HOFI,House Finch,Call,1,46,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,RTHA,Red-tailed Hawk,Visual,1,280,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,WCSP,White-crowned Sparrow,Song,1,117,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:54,9,N,WREN,Wrentit,Song,2,>150,NA,NA,2,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,CAQU,California Quail,Call,1,42,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,CAQU,California Quail,Call,2,40,2,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,Northern Flicker NOFL,Red-Shafted Flicker (Previously Northern Flicker NOFL),Call,1,69,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,CAQU,California Quail,Song,1,56,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,WREN,Wrentit,Song,1,56,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,WREN,Wrentit,Song,1,80,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,BEWR,Bewick's Wren,Song,1,21,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,BEWR,Bewick's Wren,Song,1,40,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,CALT,California Towhee,Call,1,40,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,Northern Flicker NOFL,Red-Shafted Flicker (Previously Northern Flicker NOFL),Call,1,50,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,WCSP,White-crowned Sparrow,Song,1,90,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:51,10,N,WESJ,California Scrub-Jay,Visual,1,42,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,AMGO,American Goldfinch,V/S,1,17,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,WIWA,Wilson's Warbler,Song,1,29,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,AMGO,American Goldfinch,Visual,2,29,2,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,WCSP,White-crowned Sparrow,Visual,1,29,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,WREN,Wrentit,Song,1,50,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,MODO,Mourning Dove,Call,2,20,2,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,ANHU,Anna's Hummingbird,Call,1,15,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,MODO,Mourning Dove,Call,1,97,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,BEWR,Bewick's Wren,Song,1,98,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,BEWR,Bewick's Wren,Song,1,70,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,WCSP,White-crowned Sparrow,Song,1,80,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,BEWR,Bewick's Wren,Song,1,30,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,BUSH,Bushtit,Visual,4,25,NA,NA,NA,4
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,SPTO,Spotted Towhee,Call,1,46,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,SPTO,Spotted Towhee,Call,1,75,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,7:30,11,N,CALT,California Towhee,Call,1,28,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,SPTO,Spotted Towhee,Song,1,53,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,BEWR,Bewick's Wren,Call,1,46,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,WCSP,White-crowned Sparrow,Visual,1,51,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,CATH,California Thrasher,Song,1,56,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,BUSH,Bushtit,Visual,1,34,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,WREN,Wrentit,Song,1,71,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,WREN,Wrentit,Visual,1,18,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,CAQU,California Quail,Call,1,65,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,ANHU,Anna's Hummingbird,Visual,1,9,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,WCSP,White-crowned Sparrow,Song,1,41,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,CATH,California Thrasher,Visual,2,44,NA,NA,NA,2
+2013 Spring Survey 2 of 4,5/8/2013,8:39,12,R,not official,Unknown Bird,Call,1,41,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,BEWR,Bewick's Wren,Song,1,31,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,TRES,Tree Swallow,Visual,1,39,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,SOSP,Song Sparrow,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,COYE,Common Yellowthroat,Song,1,36,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,MAWR,Marsh Wren,Song,1,61,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,COYE,Common Yellowthroat,Song,1,46,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,WESJ,California Scrub-Jay,Visual,1,49,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,HOFI,House Finch,Visual,4,65,NA,4,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,PBGR,Pied-billed Grebe,Call,2,80,NA,2,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,AMRO,American Robin,Song,1,200,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,WESJ,California Scrub-Jay,Visual,1,48,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,BARS,Barn Swallow,Visual,1,40,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,TRES,Tree Swallow,Visual,1,40,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,ANHU,Anna's Hummingbird,V/C,1,26,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,SPTO,Spotted Towhee,V/C,1,36,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,MAWR,Marsh Wren,Call,2,75,NA,NA,NA,2
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,BEWR,Bewick's Wren,Visual,1,50,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,8:18,13,N,RWBL,Red-winged Blackbird,Song,2,150,NA,NA,NA,2
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,SWTH,Swainson's Thrush,Song,1,20,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,WREN,Wrentit,Call,1,80,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,COLO,Common Loon,Call,1,150,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,SPTO,Spotted Towhee,Visual,2,20,2,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,WREN,Wrentit,Call,1,60,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,HOFI,House Finch,Song,1,50,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,CATH,California Thrasher,Song,1,90,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,COYE,Common Yellowthroat,Call,1,30,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,SOSP,Song Sparrow,Song,1,40,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,BEWR,Bewick's Wren,Call,1,20,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,MALL,Mallard,Call,1,150,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,MALL,Mallard,Visual,2,50,NA,NA,NA,2
+2013 Spring Survey 2 of 4,5/8/2013,6:33,17,N,ANHU,Anna's Hummingbird,Visual,1,22,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,WESJ,California Scrub-Jay,Visual,1,50,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,WESJ,California Scrub-Jay,Visual,1,27,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,CATH,California Thrasher,Call,1,45,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,WREN,Wrentit,Song,1,12,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,SPTO,Spotted Towhee,Call,1,40,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,SPTO,Spotted Towhee,Call,1,60,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,WREN,Wrentit,Call,1,70,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,CEDW,Cedar Waxwing,Visual,40,,NA,40,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,WCSP,White-crowned Sparrow,Visual,1,83,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,CATH,California Thrasher,Visual,1,61,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,BEWR,Bewick's Wren,Visual,1,73,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,CALT,California Towhee,Call,1,40,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,AWPE,American White Pelican,Visual,5,400,NA,NA,NA,5
+2013 Spring Survey 2 of 4,5/8/2013,6:47,18,N,WESJ,California Scrub-Jay,Call,1,58,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,HOFI,House Finch,Song,1,78,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,BEWR,Bewick's Wren,Song,1,73,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,SPTO,Spotted Towhee,Song,1,77,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,WREN,Wrentit,Song,1,118,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,WCSP,White-crowned Sparrow,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,MODO,Mourning Dove,Visual,1,62,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,WREN,Wrentit,Call,2,112,2,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,WREN,Wrentit,Song,1,97,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,SPTO,Spotted Towhee,Call,1,98,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,HOFI,House Finch,Song,1,102,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,WCSP,White-crowned Sparrow,Song,1,126,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,WCSP,White-crowned Sparrow,Song,1,110,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,USHU,Unknown Selasphorus Hummingbird,Visual,1,11,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/9/2013,6:22,19,N,BUSH,Bushtit,Visual,5,52,NA,NA,NA,5
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,MODO,Mourning Dove,Visual,1,85,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,WCSP,White-crowned Sparrow,Song,1,71,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,WREN,Wrentit,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,WREN,Wrentit,Song,1,120,1,NA,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,AMGO,American Goldfinch,Call,2,35,NA,2,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,WCSP,White-crowned Sparrow,Song,1,84,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,BARS,Barn Swallow,Visual,1,67,NA,1,NA,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,SPTO,Spotted Towhee,Call,1,60,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,SPTO,Spotted Towhee,Call,1,37,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,CLSW,Cliff Swallow,Visual,1,70,NA,NA,1,NA
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,WCSP,White-crowned Sparrow,Song,1,142,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,WREN,Wrentit,Song,1,97,NA,NA,NA,1
+2013 Spring Survey 2 of 4,5/8/2013,9:58,20,N,BEWR,Bewick's Wren,Call,1,45,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,SWTH,Swainson's Thrush,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,WREN,Wrentit,Song,1,43,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,SPTO,Spotted Towhee,Song,1,59,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,WREN,Wrentit,Song,1,>100,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,MODO,Mourning Dove,Visual,1,93,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,SPTO,Spotted Towhee,Song,1,57,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,WCSP,White-crowned Sparrow,Visual,1,53,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,MODO,Mourning Dove,Visual,1,75,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,WREN,Wrentit,Song,1,45,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,MODO,Mourning Dove,Visual,1,,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,WCSP,White-crowned Sparrow,Song,1,130,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,6:24,20,N,SWTH,Swainson's Thrush,Song,1,58,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,6:56,2,R,WCSP,White-crowned Sparrow,V/C,1,29,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:14,4,R,WIWA,Wilson's Warbler,Song,1,30,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:14,4,R,SPTO,Spotted Towhee,Song,1,20,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:14,4,R,BEWR,Bewick's Wren,Song,1,25,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:14,4,R,BEWR,Bewick's Wren,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:14,4,R,AMGO,American Goldfinch,Call,1,35,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:14,4,R,AMGO,American Goldfinch,Call,1,40,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:14,4,R,WCSP,White-crowned Sparrow,Song,1,60,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:14,4,R,CATH,California Thrasher,Song,1,50,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,7:41,6,R,BEWR,Bewick's Wren,Song,1,36,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:41,6,R,WESJ,California Scrub-Jay,Visual,1,37,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:41,6,R,WCSP,White-crowned Sparrow,Song,1,46,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:41,6,R,WCSP,White-crowned Sparrow,Song,1,125,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:41,6,R,BEWR,Bewick's Wren,Song,1,72,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/22/2013,7:41,6,R,RWBL,Red-winged Blackbird,Visual,4,,NA,NA,NA,4
+2013 Spring Survey 3 of 4,5/22/2013,7:41,6,R,BUSH,Bushtit,Visual,2,22,NA,NA,NA,2
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,BHGR,Black-headed Grosbeak,Visual,1,72,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,CATH,California Thrasher,Song,1,99,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,WCSP,White-crowned Sparrow,Song,1,50,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,YEWA,Yellow Warbler,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,CATH,California Thrasher,Song,1,59,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,BEWR,Bewick's Wren,Call,1,32,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,RWBL,Red-winged Blackbird,Visual,1,,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,TOWA,Townsend's Warbler,Visual,1,55,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,BEWR,Bewick's Wren,Visual,1,17,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,8:05,12,R,WCSP,White-crowned Sparrow,Song,1,47,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,SOSP,Song Sparrow,Song,1,33,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,AMGO,American Goldfinch,V/S,2,43,2,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,BEWR,Bewick's Wren,Song,1,46,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,CATH,California Thrasher,Song,1,>100,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,COYE,Common Yellowthroat,Song,1,50,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,MAWR,Marsh Wren,Song,3,>100,NA,3,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,BEWR,Bewick's Wren,Song,1,66,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,WESJ,California Scrub-Jay,Visual,1,39,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,WESJ,California Scrub-Jay,Visual,1,53,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/22/2013,8:31,13,N,AMGO,American Goldfinch,Visual,2,,NA,NA,NA,2
+2013 Spring Survey 3 of 4,5/22/2013,9:02,9,N,WCSP,White-crowned Sparrow,Song,1,65,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:02,9,N,RTHA,Red-tailed Hawk,Call,1,,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:02,9,N,WREN,Wrentit,Call,1,63,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:02,9,N,WCSP,White-crowned Sparrow,Song,1,132,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:02,9,N,HOFI,House Finch,S/V,1,48,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:02,9,N,CLSW,Cliff Swallow,Visual,1,,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:02,9,N,WCSP,White-crowned Sparrow,Song,1,90,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:02,9,N,CAQU,California Quail,Call,1,65,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:02,9,N,ANHU,Anna's Hummingbird,Visual,2,,NA,NA,NA,2
+2013 Spring Survey 3 of 4,5/22/2013,9:20,8,R,WCSP,White-crowned Sparrow,Song,1,57,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:20,8,R,BEWR,Bewick's Wren,Song,1,44,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:20,8,R,WREN,Wrentit,Song,1,83,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:20,8,R,CATH,California Thrasher,Song,1,58,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:20,8,R,WCSP,White-crowned Sparrow,Song,1,75,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:20,8,R,WCSP,White-crowned Sparrow,Song,1,>100,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:20,8,R,BEWR,Bewick's Wren,Call,1,36,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/22/2013,9:20,8,R,WREN,Wrentit,Song,1,91,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,SPTO,Spotted Towhee,Song,1,52,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,MODO,Mourning Dove,Visual,1,48,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,SPTO,Spotted Towhee,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,WCSP,White-crowned Sparrow,Visual,2,18,2,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,WCSP,White-crowned Sparrow,Song,1,16,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,CBCH,Chestnut-backed Chickadee,V/C,6,22,6,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,OCWA,Orange-crowned Warbler,Visual,1,26,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,WREN,Wrentit,Song,1,77,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,WCSP,White-crowned Sparrow,Song,1,74,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,WREN,Wrentit,Song,1,109,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,WREN,Wrentit,Song,2,109,NA,NA,2,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,CATH,California Thrasher,V/S,1,197,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,6:22,19,N,MODO,Mourning Dove,Visual,3,,NA,NA,NA,3
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,WCSP,White-crowned Sparrow,Song,1,14,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,MODO,Mourning Dove,Visual,1,61,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,WIWA,Wilson's Warbler,Song,1,52,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,MODO,Mourning Dove,Visual,2,60,2,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,BEWR,Bewick's Wren,Song,1,20,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,AMGO,American Goldfinch,Song,1,43,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,USHU,Unknown Selasphorus Hummingbird,Visual,1,35,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,WCSP,White-crowned Sparrow,Visual,2,55,NA,2,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,MODO,Mourning Dove,Visual,1,58,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,WCSP,White-crowned Sparrow,Song,1,69,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,CATH,California Thrasher,Visual,1,119,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,WCSP,White-crowned Sparrow,Song,1,61,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,HOFI,House Finch,Song,1,65,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,AMGO,American Goldfinch,Visual,1,82,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,6:45,1,R,CATH,California Thrasher,Song,1,92,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,7:09,3,R,BEWR,Bewick's Wren,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:09,3,R,WIWA,Wilson's Warbler,Song,1,20,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:09,3,R,SPTO,Spotted Towhee,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:09,3,R,WCSP,White-crowned Sparrow,Song,1,65,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:09,3,R,BEWR,Bewick's Wren,Song,1,50,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:09,3,R,RWBL,Red-winged Blackbird,Visual,35,,NA,NA,NA,35
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,WREN,Wrentit,Song,2,50,2,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,WREN,Wrentit,Song,1,64,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,WREN,Wrentit,Song,1,15,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,BEWR,Bewick's Wren,Song,1,24,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,AMGO,American Goldfinch,Song,1,,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,UNSW,Unknown Swallow,Call,2,30,2,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,WAVI,Warbling Vireo,Visual,1,8,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,WESJ,California Scrub-Jay,Call,1,72,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,WCSP,White-crowned Sparrow,Visual,1,60,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,7:27,5,R,BEWR,Bewick's Wren,Call,1,25,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,WCSP,White-crowned Sparrow,Song,1,42,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,WCSP,White-crowned Sparrow,Song,1,37,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,WCSP,White-crowned Sparrow,Song,1,46,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,SPTO,Spotted Towhee,Song,1,45,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,CATH,California Thrasher,Song,1,45,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,BEWR,Bewick's Wren,Song,1,27,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,WREN,Wrentit,Call,1,95,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,SPTO,Spotted Towhee,Song,1,45,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,MODO,Mourning Dove,Call,1,18,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,7:47,7,R,WCSP,White-crowned Sparrow,Song,1,70,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,8:12,10,N,WCSP,White-crowned Sparrow,Song,1,82,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:12,10,N,WREN,Wrentit,Song,1,50,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:12,10,N,BEWR,Bewick's Wren,Song,1,58,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:12,10,N,WREN,Wrentit,Song,1,40,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:12,10,N,ANHU,Anna's Hummingbird,Visual,1,17,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:12,10,N,TRES,Tree Swallow,Visual,5,,NA,NA,5,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:12,10,N,BEWR,Bewick's Wren,Song,1,24,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:12,10,N,WREN,Wrentit,Song,1,86,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:12,10,N,MODO,Mourning Dove,Call,1,55,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,SPTO,Spotted Towhee,Song,1,22,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,SWTH,Swainson's Thrush,Song,1,80,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,AMGO,American Goldfinch,Visual,2,24,2,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,YEWA,Yellow Warbler,Visual,1,22,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,HOFI,House Finch,Visual,1,34,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,LAGO,Lawrence's goldfinch,Visual,1,34,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,BEWR,Bewick's Wren,Song,1,26,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,SPTO,Spotted Towhee,Song,1,24,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,CLSW,Cliff Swallow,Visual,1,,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,WREN,Wrentit,Song,1,45,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,CAQU,California Quail,Call,1,80,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,TRES,Tree Swallow,Visual,1,,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,8:32,11,N,SPTO,Spotted Towhee,Song,2,11,NA,NA,NA,2
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,CATH,California Thrasher,Visual,1,55,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,BEWR,Bewick's Wren,Song,1,29,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,SPTO,Spotted Towhee,Song,1,56,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,WCSP,White-crowned Sparrow,Visual,2,34,2,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,WCSP,White-crowned Sparrow,Song,1,53,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,SPTO,Spotted Towhee,Visual,1,109,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,TRES,Tree Swallow,Visual,1,,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,WCSP,White-crowned Sparrow,Visual,1,49,NA,NA,NA,1
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,MODO,Mourning Dove,Visual,2,68,NA,NA,NA,2
+2013 Spring Survey 3 of 4,5/23/2013,9:27,18,N,BARS,Barn Swallow,Visual,2,63,NA,NA,NA,2
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,ATFL,Ash Throated Flycatcher,Visual,1,8,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,WIWA,Wilson's Warbler,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,YEWA,Yellow Warbler,Song,1,30,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,HOFI,House Finch,Visual,1,35,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,OCWA,Orange-crowned Warbler,Song,1,25,1,NA,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,CATH,California Thrasher,Call,1,40,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,RWBL,Red-winged Blackbird,Call,1,,NA,1,NA,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,BUSH,Bushtit,Call,2,19,NA,NA,2,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,BEWR,Bewick's Wren,Song,1,44,NA,NA,1,NA
+2013 Spring Survey 3 of 4,5/23/2013,9:45,17,N,BARS,Barn Swallow,Visual,1,,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,CATH,California Thrasher,Song,1,40,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,MODO,Mourning Dove,Song,2,40,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,SOSP,Song Sparrow,Song,1,20,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,WREN,Wrentit,Song,1,30,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,MODO,Mourning Dove,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,CBCH,Chestnut-backed Chickadee,Call,1,20,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,SPTO,Spotted Towhee,Song,1,50,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,SPTO,Spotted Towhee,Song,1,30,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,BEWR,Bewick's Wren,Song,1,>100,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:10,17,N,BEWR,Bewick's Wren,Song,1,40,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/4/2013,6:25,18,N,BEWR,Bewick's Wren,Song,1,34,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:25,18,N,CATH,California Thrasher,Song,1,80,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:25,18,N,WREN,Wrentit,Song,1,50,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:25,18,N,CATH,California Thrasher,Song,1,35,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:25,18,N,WCSP,White-crowned Sparrow,Song,1,86,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:25,18,N,WCSP,White-crowned Sparrow,Song,1,80,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:25,18,N,SPTO,Spotted Towhee,Song,1,27,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:25,18,N,SPTO,Spotted Towhee,Visual,1,31,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,6:25,18,N,MALL,Mallard,Visual,2,125,NA,NA,NA,2
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,CATH,California Thrasher,Song,1,81,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,WREN,Wrentit,Song,1,14,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,SPTO,Spotted Towhee,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,Northern Flicker NOFL,Red-Shafted Flicker (Previously Northern Flicker NOFL),Call,1,104,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,CAQU,California Quail,Song,1,15,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,RWBL,Red-winged Blackbird,Call,1,30,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,SOSP,Song Sparrow,Song,1,30,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,WCSP,White-crowned Sparrow,Song,1,50,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,MODO,Mourning Dove,Song,1,90,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,CLSW,Cliff Swallow,Visual,1,50,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,UNHU,Unknown Hummingbird,Visual,1,15,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,BEWR,Bewick's Wren,Call,1,33,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,UNHU,Unknown Hummingbird,Visual,1,7,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,CAQU,California Quail,Call,1,95,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,CLSW,Cliff Swallow,Visual,1,71,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/4/2013,7:11,11,N,CATH,California Thrasher,Visual,1,25,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,MODO,Mourning Dove,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,CLSW,Cliff Swallow,Visual,2,40,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,WCSP,White-crowned Sparrow,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,WREN,Wrentit,Song,1,45,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,UNSW,Unknown Swallow,Visual,2,50,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,NUWO,Nuttall's Woodpecker,Visual,1,66,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,CALT,California Towhee,Visual,1,27,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,BEWR,Bewick's Wren,Call,1,36,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,MODO,Mourning Dove,Song,1,40,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,MODO,Mourning Dove,Visual,1,70,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,CLSW,Cliff Swallow,Visual,1,60,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,HOFI,House Finch,Visual,1,26,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,SPTO,Spotted Towhee,Song,1,41,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,CLSW,Cliff Swallow,Visual,2,60,NA,NA,NA,2
+2013 Spring Survey 4 of 4,6/4/2013,7:32,10,N,BEWR,Bewick's Wren,Visual,1,31,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,RTHA,Red-tailed Hawk,Call,1,123,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,RTHA,Red-tailed Hawk,Visual,2,66,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,ANHU,Anna's Hummingbird,Visual,1,20,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,WCSP,White-crowned Sparrow,Song,1,137,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,WCSP,White-crowned Sparrow,Song,1,111,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,CLSW,Cliff Swallow,Visual,1,60,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,NUWO,Nuttall's Woodpecker,Call,1,49,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,BEWR,Bewick's Wren,Song,1,106,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,WREN,Wrentit,Song,1,184,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,UNHU,Unknown Hummingbird,Visual,2,40,NA,NA,2,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,CLSW,Cliff Swallow,Visual,1,51,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,CLSW,Cliff Swallow,Visual,2,196,NA,NA,NA,2
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,WREN,Wrentit,Song,1,91,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/4/2013,7:54,9,N,CLSW,Cliff Swallow,Visual,2,40,NA,NA,NA,2
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,BEWR,Bewick's Wren,Song,1,56,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,WREN,Wrentit,Visual,2,16,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,MODO,Mourning Dove,Visual,2,40,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,BEWR,Bewick's Wren,Song,1,20,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,WREN,Wrentit,Song,1,91,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,SPTO,Spotted Towhee,Song,1,20,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,CLSW,Cliff Swallow,Visual,1,35,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,CLSW,Cliff Swallow,Visual,1,35,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,SPTO,Spotted Towhee,Song,1,18,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,MODO,Mourning Dove,Visual,2,45,NA,NA,2,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,WREN,Wrentit,Song,1,118,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,CLSW,Cliff Swallow,Visual,2,100,NA,NA,2,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,SPTO,Spotted Towhee,V/S,1,167,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/4/2013,8:11,8,R,WCSP,White-crowned Sparrow,Song,1,77,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,MODO,Mourning Dove,Visual,1,10,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,BARS,Barn Swallow,Visual,1,100,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,CLSW,Cliff Swallow,Visual,1,19,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,CLSW,Cliff Swallow,Visual,1,90,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,BEWR,Bewick's Wren,Song,1,18,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,WCSP,White-crowned Sparrow,Song,1,22,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,CLSW,Cliff Swallow,Visual,1,20,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,CATH,California Thrasher,Song,1,200,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,WCSP,White-crowned Sparrow,Song,1,48,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:28,7,R,CATH,California Thrasher,Song,1,61,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,BEWR,Bewick's Wren,Song,1,25,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,CATH,California Thrasher,Song,1,95,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,WREN,Wrentit,Song,1,80,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,WREN,Wrentit,Song,1,80,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,UNSP,Unknown Sparrow,Visual,1,60,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,CLSW,Cliff Swallow,Visual,3,80,3,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,WESJ,California Scrub-Jay,Call,1,46,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,CLSW,Cliff Swallow,Visual,1,40,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,CLSW,Cliff Swallow,Visual,1,80,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/4/2013,8:46,5,R,WREN,Wrentit,Song,2,40,NA,NA,NA,2
+2013 Spring Survey 4 of 4,6/4/2013,9:04,4,R,CATH,California Thrasher,V/C,2,26,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,9:04,4,R,BEWR,Bewick's Wren,Song,2,20,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,9:04,4,R,SPTO,Spotted Towhee,Song,1,25,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,9:04,4,R,WESJ,California Scrub-Jay,Call,1,40,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,9:23,2,R,CLSW,Cliff Swallow,Visual,1,,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,9:23,2,R,WCSP,White-crowned Sparrow,Visual,1,47,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,9:23,2,R,TRES,Tree Swallow,Visual,1,100,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,9:23,2,R,CLSW,Cliff Swallow,Visual,1,50,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/4/2013,9:23,2,R,WCSP,White-crowned Sparrow,V/S,1,37,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,WCSP,White-crowned Sparrow,Song,1,66,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,WESJ,California Scrub-Jay,Visual,1,56,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,V/C,4,40,4,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,BEWR,Bewick's Wren,V/S,1,26,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,Visual,2,117,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,Visual,1,27,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,Visual,1,40,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,Visual,1,10,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,Visual,3,50,NA,NA,NA,3
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,Visual,3,60,NA,NA,NA,3
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,Visual,1,46,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,Visual,1,59,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,CLSW,Cliff Swallow,Visual,1,5,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,6:11,6,R,WREN,Wrentit,Song,1,176,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,SPTO,Spotted Towhee,Song,1,67,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,1,30,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CATH,California Thrasher,Song,1,30,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,WREN,Wrentit,Song,1,61,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,BEWR,Bewick's Wren,Song,1,65,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,1,45,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,WCSP,White-crowned Sparrow,Song,1,43,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,1,53,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,2,52,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,WREN,Wrentit,Song,1,52,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,BRBL,Brewer's Blackbird,Visual,2,60,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,LETE,Least Tern,Visual,2,,NA,2,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,UNHU,Unknown Hummingbird,Visual,1,30,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,MODO,Mourning Dove,Visual,1,65,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,1,50,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,1,15,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CATH,California Thrasher,Song,1,61,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,WCSP,White-crowned Sparrow,Song,1,14,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,1,10,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,1,50,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,2,39,NA,NA,NA,2
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,1,43,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,1,30,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,2,66,NA,NA,NA,2
+2013 Spring Survey 4 of 4,6/5/2013,6:32,12,R,CLSW,Cliff Swallow,Visual,2,10,NA,NA,NA,2
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,SPTO,Spotted Towhee,Song,1,45,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,BEWR,Bewick's Wren,Song,1,32,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,CLSW,Cliff Swallow,Visual,2,60,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,CLSW,Cliff Swallow,Visual,1,15,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,MALL,Mallard,Visual,1,243,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,RWBL,Red-winged Blackbird,Call,2,285,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,CLSW,Cliff Swallow,Visual,1,40,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,CLSW,Cliff Swallow,Visual,1,43,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,AMRO,American Robin,Song,1,249,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,CLSW,Cliff Swallow,Visual,1,65,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,BEWR,Bewick's Wren,Song,1,62,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,BUSH,Bushtit,Visual,2,44,NA,NA,2,NA
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,VGSW,Violet-green Swallow,Visual,1,80,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,6:53,13,N,WIWA,Wilson's Warbler,Visual,1,21,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,7:26,3,R,BEWR,Bewick's Wren,Song,2,40,2,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:26,3,R,WCSP,White-crowned Sparrow,Song,1,68,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:26,3,R,BARS,Barn Swallow,Visual,1,58,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,WIWA,Wilson's Warbler,Song,1,71,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,MODO,Mourning Dove,Song,1,67,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,SPTO,Spotted Towhee,Song,1,72,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,CATH,California Thrasher,Song,1,96,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,WCSP,White-crowned Sparrow,Song,1,60,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,WCSP,White-crowned Sparrow,Song,1,72,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,SWTH,Swainson's Thrush,Song,1,62,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,MODO,Mourning Dove,Visual,1,30,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,AMGO,American Goldfinch,Call,2,25,NA,NA,2,NA
+2013 Spring Survey 4 of 4,6/5/2013,7:46,1,R,BEWR,Bewick's Wren,Song,1,30,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,CLSW,Cliff Swallow,Visual,1,48,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,SPTO,Spotted Towhee,Song,1,91,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,WREN,Wrentit,Song,1,101,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,CATH,California Thrasher,Song,1,130,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,WREN,Wrentit,Song,1,71,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,BUSH,Bushtit,Visual,6,30,NA,6,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,WREN,Wrentit,Song,1,137,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,SPTO,Spotted Towhee,Song,1,101,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,MODO,Mourning Dove,Visual,1,76,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,WREN,Wrentit,Song,1,44,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,DOWO,Downy Woodpecker,Visual,1,31,NA,NA,NA,1
+2013 Spring Survey 4 of 4,6/5/2013,8:08,20,N,CLSW,Cliff Swallow,Visual,2,15,NA,NA,NA,2
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,WCSP,White-crowned Sparrow,Song,1,81,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,MODO,Mourning Dove,Song,1,155,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,WCSP,White-crowned Sparrow,Song,1,76,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,WREN,Wrentit,Song,1,110,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,WCSP,White-crowned Sparrow,Song,1,66,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,WREN,Wrentit,Song,1,148,1,NA,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,MODO,Mourning Dove,Visual,1,58,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,BUSH,Bushtit,Visual,1,48,NA,1,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,WCSP,White-crowned Sparrow,Visual,2,5,NA,2,NA,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,SPTO,Spotted Towhee,Song,1,104,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,MODO,Mourning Dove,Song,1,86,NA,NA,1,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,MODO,Mourning Dove,Song,2,223,NA,NA,2,NA
+2013 Spring Survey 4 of 4,6/5/2013,8:34,19,N,UNHU,Unknown Hummingbird,Visual,1,5,NA,NA,NA,1
