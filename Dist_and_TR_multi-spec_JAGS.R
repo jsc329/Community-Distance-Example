@@ -43,9 +43,9 @@ for (s in 1:nsites){
 	for (t in 1:nvisits){
 
 		#covariates on perceptibility
-		log(sigma[s,t,i]) <- alpha0[i] + alpha1[i]*time[s,t] + alpha2[i]*day[t]
+		log(sigma[s,t,i]) <- alpha0[i] + alpha1[i]*time[s,t] + alpha2[i]*day[s,t]
 		#covs on availability
-		logit(p.a[s,t,i]) <- beta.a0[i] + beta.a1[i]*time[s,t] + beta.a2[i]*day[t]
+		logit(p.a[s,t,i]) <- beta.a0[i] + beta.a1[i]*time[s,t] + beta.a2[i]*day[s,t]
 	
 
 		# Distance sampling detection model
