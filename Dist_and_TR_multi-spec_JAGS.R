@@ -1,7 +1,8 @@
 
 model {
 
-# This is taken from pg. 476 in Kery and Royle 2015
+# This is derived from pg. 476 in Kery and Royle 2015
+# And some is taken from Yamaura's paper in Ecosphere
   
   #Hypers
   mu_b.a0 ~ dnorm(0, 0.01)
@@ -79,8 +80,8 @@ for (s in 1:nsites){
     #Abundance model
 
 		# marginal detection probability is the product of perceptibility (pdet) from distance data
-		# and singing rate (phi) AKA. whether a bird is singing or visible during a survey
-		# There's another peice too, movement during a survey, but we're not going
+		# and singing rate (phi) (AKA whether a bird is singing or visible during a survey)
+		# There's another piece too, movement during a survey, but we're not going
 		# to deal with that today
 		pmarg[s,t,i] <- pdet[s,t,i] * phi[s,t,i]
 		
